@@ -1,7 +1,6 @@
 「AVA-ON」
 オンラインFPS『Alliance of Valiant Arms (AVA)』のアカウント管理Chrome拡張機能
 
-
 【AVA-ON v0.1.2 取扱説明書】
 
 本ドキュメントは、Chrome拡張機能「AVA-ON」の詳細な使い方や各機能の説明、注意点について記載しています。
