@@ -1,6 +1,6 @@
-Alliance of Valiant Arms
-オンラインFPS『Alliance of Valiant Arms (AVA)』のアカウント管理ツール
-Chrome拡張機能「AVA-ON」
+「AVA-ON」
+オンラインFPS『Alliance of Valiant Arms (AVA)』のアカウント管理Chrome拡張機能
+
 
 【AVA-ON v0.1.2 取扱説明書】
 
